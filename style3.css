@@ -1,0 +1,47 @@
+#demo {
+    background-color: aqua;
+    border: 2px;
+    margin-right: 550px;
+    width: 100%;
+}
+
+#demo1 {
+    background-color: aqua;
+    text-align: right;
+    padding-top: 10x;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+#demo4 {
+    background-color: blueviolet;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+#btn {
+    background-color: blue;
+    
+}
+
+#div {
+    align-items: center;
+    text-align: center;
+
+
+}
+
+@media screen and (max-width:768px){
+    #bd {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:400px){
+    #bd {
+        width: 50%;
+    }
+
+}
